@@ -31,6 +31,7 @@ module.exports = (sequelize, DataTypes) => {
       tags: DataTypes.JSON,
       imageUrl: { type: DataTypes.STRING, validate: { isUrl: true } },
       category: { type: DataTypes.STRING, allowNull: false },
+      inStock: { type: DataTypes.BOOLEAN },
     },
     {
       sequelize,

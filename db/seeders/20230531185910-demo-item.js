@@ -16,6 +16,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "gluten-free bread",
@@ -27,6 +28,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "vegan cheese",
@@ -38,6 +40,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia seeds",
@@ -49,6 +52,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "coconut milk",
@@ -60,6 +64,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "kale",
@@ -71,6 +76,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "quinoa",
@@ -82,6 +88,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "almond butter",
@@ -93,6 +100,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "hummus",
@@ -104,6 +112,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "tofu",
@@ -115,6 +124,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "mushrooms",
@@ -126,6 +136,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia pudding",
@@ -137,6 +148,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia bars",
@@ -148,6 +160,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia flour",
@@ -159,6 +172,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia oil",
@@ -170,6 +184,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia drinks",
@@ -181,6 +196,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia cereal",
@@ -192,6 +208,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia granola",
@@ -203,6 +220,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia crackers",
@@ -214,6 +232,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia wraps",
@@ -225,6 +244,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia chips",
@@ -236,6 +256,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia pasta",
@@ -247,6 +268,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia cookies",
@@ -258,6 +280,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia jam",
@@ -269,6 +292,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia smoothies",
@@ -280,6 +304,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia protein powder",
@@ -291,6 +316,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia energy bars",
@@ -302,6 +328,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia muffins",
@@ -313,6 +340,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia pancakes",
@@ -324,6 +352,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia waffles",
@@ -335,6 +364,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia bread",
@@ -346,6 +376,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia pizza crust",
@@ -357,6 +388,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia tortillas",
@@ -368,6 +400,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia soup",
@@ -379,6 +412,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia salad dressing",
@@ -390,6 +424,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia salsa",
@@ -401,6 +436,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia guacamole",
@@ -412,6 +448,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia hummus",
@@ -423,6 +460,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia pesto",
@@ -434,6 +472,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia tzatziki",
@@ -445,6 +484,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia dip",
@@ -456,6 +496,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia ice cream",
@@ -467,6 +508,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia yogurt",
@@ -478,6 +520,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia milk",
@@ -489,6 +532,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia tea",
@@ -500,6 +544,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia coffee",
@@ -511,6 +556,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia lemonade",
@@ -522,6 +568,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia juice",
@@ -533,6 +580,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia water",
@@ -544,6 +592,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia beer",
@@ -555,6 +604,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia wine",
@@ -566,6 +616,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia cocktails",
@@ -577,6 +628,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia shots",
@@ -588,6 +640,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia supplements",
@@ -599,6 +652,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia vitamins",
@@ -610,6 +664,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia skincare",
@@ -621,6 +676,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia haircare",
@@ -632,6 +688,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia body lotion",
@@ -643,6 +700,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia soap",
@@ -654,6 +712,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia lip balm",
@@ -665,6 +724,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia candles",
@@ -676,6 +736,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia potpourri",
@@ -687,6 +748,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia air freshener",
@@ -698,6 +760,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia cleaning products",
@@ -709,6 +772,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia laundry detergent",
@@ -720,6 +784,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia dish soap",
@@ -731,6 +796,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia hand soap",
@@ -742,6 +808,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia paper towels",
@@ -753,6 +820,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia toilet paper",
@@ -764,6 +832,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia trash bags",
@@ -775,6 +844,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia reusable bags",
@@ -786,6 +856,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia water bottles",
@@ -797,6 +868,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia lunch boxes",
@@ -808,6 +880,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia food containers",
@@ -819,6 +892,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia kitchen utensils",
@@ -830,6 +904,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia cutting boards",
@@ -841,6 +916,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia cookbooks",
@@ -852,6 +928,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia aprons",
@@ -863,6 +940,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia oven mitts",
@@ -874,6 +952,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia pot holders",
@@ -885,6 +964,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia dish towels",
@@ -896,6 +976,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia tablecloths",
@@ -907,6 +988,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia placemats",
@@ -918,6 +1000,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia napkins",
@@ -929,6 +1012,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia coasters",
@@ -940,6 +1024,7 @@ module.exports = {
           category: "Bebidas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia mugs",
@@ -951,6 +1036,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia plates",
@@ -962,6 +1048,7 @@ module.exports = {
           category: "Congelados",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia bowls",
@@ -973,6 +1060,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia glasses",
@@ -984,6 +1072,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia silverware",
@@ -995,6 +1084,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia serving dishes",
@@ -1006,6 +1096,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia vases",
@@ -1017,6 +1108,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia picture frames",
@@ -1028,6 +1120,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia candles holders",
@@ -1039,6 +1132,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia rugs",
@@ -1050,6 +1144,7 @@ module.exports = {
           category: "Frutas",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia pillows",
@@ -1061,6 +1156,7 @@ module.exports = {
           category: "Almacen",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia blankets",
@@ -1072,6 +1168,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia curtains",
@@ -1083,6 +1180,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia lamps",
@@ -1094,6 +1192,7 @@ module.exports = {
           category: "Dietetica",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
         {
           name: "chia wall art",
@@ -1105,6 +1204,7 @@ module.exports = {
           category: "Verduras",
           createdAt: new Date(),
           updatedAt: new Date(),
+          inStock: true,
         },
       ],
       {}
