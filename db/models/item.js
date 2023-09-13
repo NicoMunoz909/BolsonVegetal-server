@@ -20,7 +20,7 @@ module.exports = (sequelize, DataTypes) => {
       },
       description: {
         type: DataTypes.STRING,
-        validate: { notEmpty: true },
+        defaultValue: "",
       },
       price: { type: DataTypes.FLOAT, allowNull: false },
       priceType: {
@@ -28,10 +28,14 @@ module.exports = (sequelize, DataTypes) => {
         validate: { isIn: [["100G", "¼KG", "½KG", "KG", "U"]] },
         allowNull: false,
       },
-      tags: DataTypes.JSON,
-      imageUrl: { type: DataTypes.STRING, validate: { isUrl: true } },
+      tags: { type: DataTypes.JSON, defaultValue: "[]" },
+      imageUrl: {
+        type: DataTypes.STRING,
+        validate: { isUrl: true },
+        defaultValue: "http://dummyimage.com/146x100.png/5fa2dd/ffffff",
+      },
       category: { type: DataTypes.STRING, allowNull: false },
-      inStock: { type: DataTypes.BOOLEAN },
+      inStock: { type: DataTypes.BOOLEAN, defaultValue: true },
     },
     {
       sequelize,
