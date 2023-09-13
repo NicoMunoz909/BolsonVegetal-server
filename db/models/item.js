@@ -25,7 +25,7 @@ module.exports = (sequelize, DataTypes) => {
       price: { type: DataTypes.FLOAT, allowNull: false },
       priceType: {
         type: DataTypes.STRING,
-        validate: { isIn: [["100G", "¼KG", "½KG", "KG", "U"]] },
+        validate: { isIn: [["100G", "¼KG", "½KG", "KG", "2KG", "U"]] },
         allowNull: false,
       },
       tags: { type: DataTypes.JSON, defaultValue: "[]" },
