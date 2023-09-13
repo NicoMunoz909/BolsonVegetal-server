@@ -22,10 +22,7 @@ const createItem = async (req, res) => {
 
 const updateItem = async (req, res) => {
   try {
-    const item = await Item.update(
-      { ...req.body },
-      { where: { id: req.params.id } }
-    );
+    const item = await Item.update({ ...req.body }, { where: { id: req.params.id } });
     res.send(item);
   } catch (error) {
     res.send(error);
@@ -35,7 +32,7 @@ const updateItem = async (req, res) => {
 const deleteItem = async (req, res) => {
   try {
     const item = await Item.destroy({ where: { id: req.params.id } });
-    res.send(item);
+    res.send("Ok");
   } catch (error) {
     res.send(error);
   }
